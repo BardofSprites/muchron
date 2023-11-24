@@ -1,0 +1,9 @@
+* muchron
+A timer and music player for optimizing productivity
+** TODO Usage
+*** TODO ⚡ Dependencies
+- gtk-3.0
+- cabal
+*** TODO 📦 Install
+1. cabal build && cabal exec muchron
+** TODO ⭐ features
